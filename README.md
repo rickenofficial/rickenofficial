@@ -12,7 +12,7 @@
 - ⚡ Fun fact: i'm really fun...
 
 <details>
-<summary>My top languages</summary>
+<summary>My top languages and Database</summary>
 
 | Rank | Languages |
 |-----:|-----------|
